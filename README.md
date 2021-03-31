@@ -1,4 +1,4 @@
-![miniatura-linktree](https://github.com/esterportto/linktree-esterporto/blob/main/assets/miniatura-linktree.png?raw=true)
+![miniatura-linktree](https://github.com/esterportto/linktree-esterporto/blob/main/assets/video.gif?raw=true)
 
   
 
